@@ -1,0 +1,18 @@
+title: Awesome B2B Prospecting
+description: "Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams."
+url: "https://awesomedirectory.github.io"
+baseurl: "/awesome-b2b-prospecting"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+keywords: "b2b prospecting tools, awesome list, curated tools, awesome b2b prospecting"
