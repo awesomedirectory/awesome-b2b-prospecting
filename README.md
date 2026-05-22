@@ -43,6 +43,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Bombora](https://bombora.com) - B2B intent data based on content consumption.
 * [6sense](https://6sense.com) - Account-based intent and predictive analytics.
 * [G2 Buyer Intent](https://www.g2.com) - Software buyer signals from G2 review traffic.
+* [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence; first-party buying signals from PostHog product-usage data + CRM, scored and routed to sales. Self-hostable (OSS alternative to Pocus / Common Room).
 
 ## Sequencers & Outbound CRMs
 *Send and orchestrate multi-touch outreach.*
