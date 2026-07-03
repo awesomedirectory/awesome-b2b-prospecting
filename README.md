@@ -53,6 +53,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Reply.io](https://reply.io) - Multichannel sales engagement (email + LinkedIn + calls).
 * [Outreach](https://outreach.io) - Enterprise sales engagement platform.
 * [Salesloft](https://salesloft.com) - Enterprise sales engagement and conversation intelligence.
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform that helps with lead capture, segmentation, campaigns, and customer journeys.
 
 ## Deliverability & Inbox Warmup
 *Make sure your messages actually land.*
