@@ -52,6 +52,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Smartlead](https://smartlead.ai) - Multi-domain cold email infrastructure with built-in warmup.
 * [Instantly](https://instantly.ai) - Cold email outreach with deliverability network.
 * [Reply.io](https://reply.io) - Multichannel sales engagement (email + LinkedIn + calls).
+* [Hermes](https://www.buildwithhermes.com) - AI voice agent platform for outbound and inbound calling campaigns, with native CRM, campaign orchestration, and white-label workspaces for agencies.
 * [Outreach](https://outreach.io) - Enterprise sales engagement platform.
 * [Salesloft](https://salesloft.com) - Enterprise sales engagement and conversation intelligence.
 
