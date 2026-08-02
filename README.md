@@ -44,6 +44,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Bombora](https://bombora.com) - B2B intent data based on content consumption.
 * [6sense](https://6sense.com) - Account-based intent and predictive analytics.
 * [G2 Buyer Intent](https://www.g2.com) - Software buyer signals from G2 review traffic.
+* [Funding Signals](https://fundingsignals.net) - Scored B2B leads from public SEC Form D filings — a timing signal for who just raised, before it's public news.
 
 ## Sequencers & Outbound CRMs
 *Send and orchestrate multi-touch outreach.*
