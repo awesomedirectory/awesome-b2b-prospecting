@@ -44,6 +44,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Bombora](https://bombora.com) - B2B intent data based on content consumption.
 * [6sense](https://6sense.com) - Account-based intent and predictive analytics.
 * [G2 Buyer Intent](https://www.g2.com) - Software buyer signals from G2 review traffic.
+* [OpenSparta](https://opensparta.com/en) - Telegram workspace; Lead Radar monitors selected communities for buying requests and ranks matches with original-message evidence.
 
 ## Sequencers & Outbound CRMs
 *Send and orchestrate multi-touch outreach.*
