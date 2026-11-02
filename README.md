@@ -71,6 +71,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Wiza](https://wiza.co) - LinkedIn Sales Navigator scraper that exports to email lists.
 * [Phantombuster](https://phantombuster.com) - LinkedIn and other channel automation.
 * [Seamless.AI](https://seamless.ai) - Real-time B2B contact search.
+* [MentionFox](https://mentionfox.com/funding/week) - Free weekly list of recently funded US startups from new SEC Form D filings, with the executives each filing names.
 * **[StackWho](https://stackwho.com)** - Build target lists by technology — search 689,000+ companies by tech stack and pull verified decision-maker emails.
 
 ---
