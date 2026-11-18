@@ -26,6 +26,7 @@ This list covers the full prospecting workflow — finding decision-makers, enri
 * [Lusha](https://lusha.com) - B2B contact platform focused on phone numbers and direct dials.
 * [Cognism](https://cognism.com) - GDPR-compliant contact database with phone-verified mobiles.
 * [SignalHire](https://signalhire.com) - Email and phone finder across LinkedIn and the web.
+* [Rookiefeed](https://rookiefeed.com) - Daily list of US trucking companies granted new FMCSA operating authority, with owner contacts, fleet size and insurer.
 
 ## Email Verification
 *Clean lists before sending to protect deliverability.*
